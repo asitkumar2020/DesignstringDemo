@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="45.083346">
+<testcase classname="Login Feature" name="Validate Login Page With Valid Credentials" time="45.083346">
+<system-out><![CDATA[Given Open Browser and navigate to url......................................passed
+When Click on Menu Button in Top Right position of Homepage.................passed
+And Navigate to Life@DesignString Page by clicking appropriate option from Menu Page.passed
+When Scroll down to Open Positions and Click on QA Engineer position........passed
+When Enter all details and upload your resume...............................passed
+Then Successfully submit the form...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
